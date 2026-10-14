@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "preserve",
+    "moduleResolution": "bundler",
+    "target": "es2025",
+    "types": [],
+    "noEmit": true,
+    "skipLibCheck": true
+  },
+  "files": [
+    "drizzle.config.ts"
+  ]
+}

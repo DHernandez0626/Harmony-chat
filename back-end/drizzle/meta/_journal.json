@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791638496821,
+      "tag": "0000_known_roxanne_simpson",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791680222421,
+      "tag": "0001_add_room_password",
+      "breakpoints": true
+    }
+  ]
+}
